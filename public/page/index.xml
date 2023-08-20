@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kostas Makedos</title>
+    <link>https://littledevel.gr/page/</link>
+    <description>Recent content in Pages on Kostas Makedos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kostas.makedos@gmail.com (Kostas Makedos)</managingEditor>
+    <webMaster>kostas.makedos@gmail.com (Kostas Makedos)</webMaster><atom:link href="https://littledevel.gr/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://littledevel.gr/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kostas.makedos@gmail.com (Kostas Makedos)</author>
+      <guid>https://littledevel.gr/page/about/</guid>
+      <description>My name is Kostas Makedos. I was born and raised in a small suburb of Athens. All of my friends and family were working class people.
+Studied Physics with a love for Astronomy. Never managed to do that professionally so it remained my dearest hobby.
+I love Computer Systems and I work as a Software Engineer for the past 20+ years. Ah, and I have a MSc in Informational Systems too.</description>
+    </item>
+    
+  </channel>
+</rss>
